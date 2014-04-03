@@ -1,0 +1,4 @@
+users:
+  auto_activation_enabled:
+    client: true
+    default: false
